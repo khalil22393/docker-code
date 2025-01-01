@@ -1,0 +1,6 @@
+/node_modules
+Dockerfile
+docker-compose.dev.yml
+docker-compose.dev-for-stage-dockerfile.yml
+docker-compose.prod.yml
+docker-compose.yml
